@@ -1,0 +1,7 @@
+Andreev A.A. ceo 1993 300000
+Borisov B.B. top-manager 1993 150000
+Vasiliev V.V. carrier 2012 60000
+Ivanov I.I. operator 2015 35000
+Petrov P.P. fitter 2004 25000
+Stepanova S.S. cleaner 2016 17000
+Popov P.P. operator 2017 17500
